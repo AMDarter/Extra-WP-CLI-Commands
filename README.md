@@ -1,1 +1,1 @@
-# WP-Commands
+# WP-CLI-Commands
