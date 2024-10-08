@@ -4,7 +4,7 @@ Plugin Name: Extra WP-CLI Commands
 Description: Custom WP-CLI commands for site management.
 Version: 1.0
 Author: Anthony M. Darter
-Author URI: https://www.anthonydarter.com
+Author URI: https://anthonymdarter.com
 */
 
 if (!defined('ABSPATH')) {

@@ -5,7 +5,7 @@
 **Plugin Name**: Extra WP-CLI Commands  
 **Version**: 1.0  
 **Author**: Anthony M. Darter  
-**Author URI**: [https://www.anthonydarter.com](https://www.anthonydarter.com)
+**Author URI**: [https://anthonymdarter.com](https://anthonymdarter.com)
 
 ### Overview
 
