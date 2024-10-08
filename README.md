@@ -46,18 +46,13 @@ The `extra` command group offers various commands for managing site content more
   - `--force-delete`: Permanently delete images without moving them to the trash.
 - **Example**: Run `wp extra delete_all_images --force-delete` to permanently delete all images.
 
-### Command Details
-
-- **`wp extra help`**: A helpful command to get an overview of what commands are available. It is particularly useful for familiarizing new staff with the tools provided by this plugin.
-- **`wp extra delete_all_images`**: This command should be used with caution. It is intended for bulk cleanup operations when images in the media library are no longer needed.
-
 ### Safety Note
 
 These commands are **powerful** and should be used with care.
 
 ### Author
 
-Created by Anthony M. Darter. For more plugins or inquiries, visit [https://www.anthonydarter.com](https://www.anthonydarter.com).
+Created by Anthony M. Darter. For more plugins or inquiries, visit [https://anthonymdarter.com](https://anthonymdarter.com).
 
 ### License
 
